@@ -20,3 +20,4 @@ drwxr-xr-x  2 dwi.nanda StafCS 4096 Sep  8 13:07 week09
 drwxr-xr-x  2 dwi.nanda StafCS 4096 Sep  8 13:07 week10
 drwxr-xr-x  2 dwi.nanda StafCS 4096 Sep  8 13:05 xtra
 /home/fasilkom/mahasiswa/d/dwi.nanda/os172/week01
+Today is 08 Sep 2017 at 13:26:59
