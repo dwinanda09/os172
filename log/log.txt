@@ -1,0 +1,8 @@
+w00-170829-16-LR-About: Intro to OS subject from class (Mr. Anwar) (1)
+w00-170829-20-LR-About: watching stuff related to OS (https://www.youtube.com/watch?v=HXcZRB8kXp4)
+w00-170831-16-LR-About: Intro to OS subject from class (Mr. Anwar) (2)
+w00-170902-16-PS: completing week00 task
+w01-170907-16-LR: tutorial scripting in class (Mr. Anwar)
+w01-170907-21-LR: watching video how to scripting in shell (https://www.youtube.com/watch?v=hwrnmQumtPw)
+w01-170908-16-PS: completing week01 task
+
