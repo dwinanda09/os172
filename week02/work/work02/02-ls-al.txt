@@ -1,0 +1,6 @@
+total 16
+drwxr-xr-x 2 dwi.nanda StafCS 4096 Sep 15 21:20 .
+drwxr-xr-x 3 dwi.nanda StafCS 4096 Sep 15 21:15 ..
+-rw-r--r-- 1 dwi.nanda StafCS 1612 Sep 15 15:20 00-toc.txt
+-rw-r--r-- 1 dwi.nanda StafCS 3158 Sep 15 15:23 01-public-osteam.txt
+-rw-r--r-- 1 dwi.nanda StafCS    0 Sep 15 21:20 02-ls-al.txt

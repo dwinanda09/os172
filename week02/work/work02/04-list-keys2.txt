@@ -1,0 +1,14 @@
+/home/fasilkom/mahasiswa/d/dwi.nanda/.gnupg/pubring.gpg
+-------------------------------------------------------
+pub   4096R/F31C9220 2017-09-15 [expires: 2018-03-14]
+uid                  dwi nanda susanto (belajar os itu asyik) <dwi.nanda@ui.ac.id>
+sub   4096R/85615408 2017-09-15 [expires: 2018-03-14]
+
+pub   4096R/CA846025 2017-09-15 [expires: 2018-03-14]
+uid                  dwi nanda susanto (belajar os asyik betul) <dwi.nanda@ui.ac.id>
+sub   4096R/F7E11392 2017-09-15 [expires: 2018-03-14]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2018-09-07]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2018-09-07]
+
