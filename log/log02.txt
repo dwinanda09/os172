@@ -1,0 +1,5 @@
+w02-170912-16-LR-About: Intro to C programming language in class (Mr. Anwar) (1)
+w02-170912-20-LR-About: watching stuff related to C language (https://www.youtube.com/watch?v=-CpG3oATGIs)
+w02-170914-16-LR: continue learning about C in class (Mr. Anwar) (2)
+w02-170915-16-PS: completing week02 task
+
