@@ -1,0 +1,6 @@
+w04-170926-16-LR-About: Intro to I/O in C language
+w04-170927-20-LR-About: watching stuff related to I/O in C
+w04-170928-16-LR: continue learning about I/O in C
+w04-170929-16-PS: completing week04 task
+
+

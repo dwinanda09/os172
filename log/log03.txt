@@ -1,0 +1,5 @@
+w03-170919-16-LR-About: Intro to booting in OS using bios
+w03-170920-20-LR-About: watching stuff related to booting with bios, trying some stuff with emulator that using bios
+w03-170921-16-LR: continue learning about bios in class
+w03-170922-16-PS: completing week03 task
+
