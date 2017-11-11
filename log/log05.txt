@@ -5,10 +5,6 @@ w05-171004-20-LR-About: learning about how to translate vm to physical addr
 w05-171005-16-LR: continue learning from the last topic
 w05-171006-16-PS: try to attempt task week05-06...not good enough yet
 
-w06-171010-16-LR-About: learning the multi level translation vm to phyiscal addr
-w06-171011-20-LR-About: watch video about how to translate it
-w06-171011-16-LR: watch video how to code it in C
-w06-171011-16-PS: completing week05-06 task.
 
 
 
