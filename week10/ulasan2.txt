@@ -1,6 +1,7 @@
 GitHub Account = dwinanda09
 URL Ulasan = http://paraprodoskian.blogspot.co.id/2017/11/ulasan-2-race-condition.html
 URL Video = https://youtu.be/6Q9ybBYjEqg (6 menit 7 detik)
+Video Author = atok789
 Pemetaan = Week07
 Revisi Pertama = 30 November 2017
 Revisi terakhir = 30 November 2017
